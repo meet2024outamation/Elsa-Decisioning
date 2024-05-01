@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ElsaServer/bin/Debug/net8.0
+/ElsaServer/obj
+/ElsaServer/elsa.sqlite.db
+/ElsaStudio/obj
+/ElsaStudio/bin/Debug/net7.0
