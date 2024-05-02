@@ -7,3 +7,7 @@
 /ElsaServer/elsa.sqlite.db
 /ElsaStudio/obj
 /ElsaStudio/bin/Debug/net7.0
+/.vs
+/ElsaServer/bin/Release/net8.0
+/ElsaStudio/bin/Release/net7.0
+/ElsaServer/Properties/PublishProfiles
